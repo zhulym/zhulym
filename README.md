@@ -4,6 +4,7 @@
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zhulym&theme=blue-green)](https://vk.com/llllwolfllll)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulym&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Codewars](https://github.r2v.ch/codewars?user=zhulym&theme=gradient)
 #
 ![](https://komarev.com/ghpvc/?username=zhulym)
 
