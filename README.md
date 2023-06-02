@@ -5,6 +5,7 @@
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zhulym&theme=blue-green)](https://vk.com/llllwolfllll)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulym&card_width=495&layout=compact&height=195&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Codewars](https://github.r2v.ch/codewars?user=zhulym&theme=gradient)
+https://github-readme-codewars-stats.herokuapp.com/api/?username=zhulym&bg=#222327&card&colormode=dark_mode
 #
 ![](https://komarev.com/ghpvc/?username=zhulym)
 
