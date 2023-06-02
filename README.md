@@ -3,11 +3,13 @@
 
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zhulym&theme=blue-green)](https://vk.com/llllwolfllll)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhulym&theme=tokyonight)](https://vk.com/llllwolfllll)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhulym&theme=tokyonight)](https://vk.com/llllwolfllll)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhulym&card_width=495&layout=compact&height=195&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Codewars](https://github.r2v.ch/codewars?user=zhulym&theme=gradient)
+![Codewars](https://vk.com/llllwolfllll)
 https://github-readme-codewars-stats.herokuapp.com/api/?username=zhulym&card&colormode=dark_mode
 #
-![](https://komarev.com/ghpvc/?username=zhulym)
+![](https://komarev.com/ghpvc/?username=zhulym)(https://vk.com/llllwolfllll)
 
 <!--
 **zhulym/zhulym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
