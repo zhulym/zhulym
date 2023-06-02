@@ -6,7 +6,7 @@
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=zhulym&theme=hacker)](https://vk.com/llllwolfllll)
 
 #
-![](https://komarev.com/ghpvc/?username=zhulym)(https://vk.com/llllwolfllll)
+![](https://komarev.com/ghpvc/?username=zhulym)
 
 <!--
 **zhulym/zhulym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
